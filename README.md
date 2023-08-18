@@ -6,7 +6,7 @@ After a career change, I decided to dive headfirst into the field of computer sc
 
 #### 💻 My skills :
 
-[![My Skills](https://skillicons.dev/icons?i=ember,react,js,html,css,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ember,react,js,html,css,typescript,tailwind)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=gitlab,github,figma)](https://skillicons.dev)
 
