@@ -6,7 +6,7 @@ Suite à une reconversion professionnelle, j'ai décidé de me réorienté dans 
 
  --------------------------
  
-💡 Always in constant learning.
+💡 Always in constant learning
 
 After a career change, I decided to dive headfirst into the field of computer science, particularly in development. With a strong interest in visuals and graphics, I gravitated more towards Front-End development.
 
