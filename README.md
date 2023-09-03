@@ -2,7 +2,7 @@
 
 💡 Toujours en quête de nouvelles connaissances 
 
-Suite à une reconversion professionnelle, j'ai décidé de me réorienté dans le domaine de la tech, et plus particulèrement dans le dévéloppement informatique. Avec un vif intérêt pour la création visuelle et le graphisme, j'ai choisi de me spécialiser dans le développement Front-End.
+Suite à une reconversion professionnelle, j'ai décidé de me réorienter dans le domaine de la tech, plus particulèrement dans le développement informatique. Avec un vif intérêt pour la création visuelle et le graphisme, j'ai choisi de me spécialiser dans le développement Front-End.
 
  --------------------------
  
